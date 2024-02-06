@@ -1,0 +1,7 @@
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_inheritence\Lab_inheritence\bin\Debug\Lab_inheritence.exe.config
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_inheritence\Lab_inheritence\bin\Debug\Lab_inheritence.exe
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_inheritence\Lab_inheritence\bin\Debug\Lab_inheritence.pdb
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_inheritence\Lab_inheritence\obj\Debug\Lab_inheritence.csproj.AssemblyReference.cache
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_inheritence\Lab_inheritence\obj\Debug\Lab_inheritence.csproj.CoreCompileInputs.cache
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_inheritence\Lab_inheritence\obj\Debug\Lab_inheritence.exe
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab_inheritence\Lab_inheritence\obj\Debug\Lab_inheritence.pdb
